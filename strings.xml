@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QUREO AI SOLVER</string>
+    <string name="accessibility_description">اختياري: قراءة النص الظاهر في صفحات Chrome محليًا لمساعدة المستخدم. لا يرسل بيانات ولا يجيب أو يرسل إجابات تلقائيًا.</string>
+</resources>
